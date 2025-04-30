@@ -1,6 +1,6 @@
 ## Project: GA4 Implementation for Lead Conversion Optimization
-** Company: Paychex Inc.
-** Role: Senior Lead Development Representative (Marketing Operations Focus)
+-- Company: Paychex Inc.
+-- Role: Senior Lead Development Representative (Marketing Operations Focus)
 
 ### Tools Used: Google Analytics 4 (GA4), Google Tag Manager (GTM), UTM Parameters, Salesforce, Excel
 
